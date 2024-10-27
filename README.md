@@ -8,6 +8,8 @@
 
 <hr/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cgm814)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 技术栈
 
 <table>
@@ -120,7 +122,6 @@
 </h1>
 
 <div align = "center">
-
 
 [![陈桂明的Github状态](https://github-readme-stats.vercel.app/api?username=cgm814&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
